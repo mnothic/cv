@@ -1,2 +1,3 @@
 # cv
-my resume in C
+my CV writen in C, Yea si too freak but see the joke in HN and I like it.
+If you compile get complete resume about me...
