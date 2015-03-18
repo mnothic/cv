@@ -102,7 +102,7 @@ job_t eyc = {
 	.started  = 1314835200,
 	.left     = 1327881600,
 	.description = {
-		"This job sucks I take it because arrived to spain and I take the offer it for survive",
+		"Unix/Oracle Solution Engineer",
 		"No programing at all except simple bash scripting, boring",
 		NULL
 	}
