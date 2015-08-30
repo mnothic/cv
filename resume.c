@@ -119,7 +119,7 @@ job_t adem = {
 		"Develop mdbuilder daemon in C",
 		"Develop data transport components in php and after in python",
 		"First python contact and build various PoC RPC services",
-		"First look to SQLAlchemy Graet framework experience",
+		"First look to SQLAlchemy Great framework experience",
 		"Extend postfix with triggers in C and python",
 		"Great expedition",
 		NULL
