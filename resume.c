@@ -174,7 +174,7 @@ job_t ns = {
 	.started  = 1049155200,
 	.left     = 1077926400,
 	.description = {
-		"Security engineer in opensource platforms and networking appliances",
+		"Security engineer in open source platforms and networking appliances",
 		"Early times, I was excited about security, the result is an expedition failed",
 		"No programming at all and bored me",
 		NULL
