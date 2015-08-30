@@ -109,7 +109,7 @@ job_t eyc = {
 };
 
 job_t adem = {
-	.company  = "Adem Inc.",
+	.company  = "ADEM Inc.",
 	.location = "Santiago, CL",
 	.title    = "Software Engineering",
 	.started  = 1201824000,
@@ -118,8 +118,8 @@ job_t adem = {
 		"Develop Intranet and help desk web tools to manage it infrastructure",
 		"Develop mdbuilder daemon in C",
 		"Develop data transport components in php and after in python",
-		"Frist python contact and build various PoC RPC services",
-		"Firs look to SQLAlchemy Graet framework experience",
+		"First python contact and build various PoC RPC services",
+		"First look to SQLAlchemy Graet framework experience",
 		"Extend postfix with triggers in C and python",
 		"Great expedition",
 		NULL
@@ -148,7 +148,7 @@ job_t vr = {
 	.started  = 1172707200,
 	.left     = 1175212800,
 	.description = {
-		"Web development in perl with in-house PERL framewroks",
+		"Web development in perl with in-house PERL frameworks",
 		"In simple words, they have a big ego and the job no big deal. I was fired",
 		NULL
 	}
@@ -161,7 +161,7 @@ job_t traza = {
 	.left     = 1177970400,
 	.description = {
 		"Develop file format converter application in C",
-		"Develop PHP web plataform for document management",
+		"Develop PHP web platform for document management",
 		"The project ends and I was fired",
 		NULL
 	}
@@ -174,7 +174,7 @@ job_t ns = {
 	.started  = 1049155200,
 	.left     = 1077926400,
 	.description = {
-		"Security engineer in opensource plataforms and networking appliances",
+		"Security engineer in opensource platforms and networking appliances",
 		"Early times, I was excited about security, the result is an expedition failed",
 		"No programming at all and bored me",
 		NULL
